@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-color: rgba(255,255,255,1);
+	background-image: url(../images/Stucco-01-june.gif);
+	top: 60px;
+}
+#wrapper {
+	height: auto;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(255,255,255,1);
+	text-align: center;
+}
+
+
+#header-logo {
+	height: auto;
+	text-align: center;
+	background-repeat: no-repeat;
+	
+}
+#content {
+	text-align: center;
+	
+	margin-top: 1px;
+	margin-bottom: 2px;
+	
+}
+#meni {
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 2px;
+	height: 0px;
+	width: 40%;
+	float: left;
+	position: fixed;
+	bottom: 60px;
+	left: 0px;
+	
+}
+#home {
+	margin-top: 1px;
+	margin-bottom: 2px;
+	height: 50px;
+	width: 20%;
+	position: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	bottom: 15px;
+	right: 40%;
+	background-image: url(../images/h.png);
+	
+}
+#levo {
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 2px;
+	height: 0px;
+	width: 40%;
+	float: right;
+	position: fixed;
+	bottom: 60px;
+	right: 0px;
+	
+}
+#content-text {
+	
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	width: 96%;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: rgba(0,0,0,1);
+}
+
+
+#footer {
+	height: 0px;
+	background-color: #000000;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+	
+	
+}
+.header-text {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 30px;
+	
+	
+}
+
+.body-text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.slogan {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.text2call {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	
+	width:96%;
+}
+.footer-text {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	font-weight: bold;
+}
+
+
+
+
+ul { 
+	padding:0; 
+	margin:0; 
+	}
+
+nav ul {
+	list-style: none;
+	font-weight: bold;
+	font-size:15px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+
+nav ul a {
+	display: block;
+	width:100%;
+	text-align:center;
+	text-decoration: none;
+	color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 13px;
+	padding-bottom: 14px;
+	background-repeat: repeat-x;
+	background-image: url(../images/gradiant.jpg);
+	}
+	a:link {
+	
+	text-decoration: none;
+}
+nav us {
+	list-style: none;
+	font-weight: bold;
+	font-size:15px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+
+nav us a {
+	display: block;
+	width:100%;
+	text-align:center;
+	text-decoration: none;
+	color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 13px;
+	padding-bottom: 14px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	}
+	a:link {
+	
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
